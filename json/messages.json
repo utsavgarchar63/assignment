@@ -1,0 +1,11 @@
+{
+  "INVALID_ROLE": "invalid role specified",
+  "EMAIL_ALREADY_REGISTERED": "email already registred",
+  "USER_CREATED_SUCCESSFULLY": "created succeffully",
+  "INTERNAL_SERVER_ERROR": "internal server error",
+  "EMAIL_NOT_FOUND": "invalid verification token",
+  "EMAIL_VERIFIED_SUCCESSFULLY": "email verified successfully",
+  "INVALID_EMAIL_OR_PASSWORD": "invalid email or password",
+  "NOT_ALLOWED_TO_LOGIN": "you are not allowed to login from here.",
+  "LOGIN_SUCCESSFULLY": "login succeffully"
+}
